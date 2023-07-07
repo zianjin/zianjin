@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Zian Jin. I am currently enrolled at the University of Virginia, majoring in Computer Science.
+
+[![Zian's GitHub stats](https://github-readme-stats.vercel.app/api?username=zianjin&hide=issues&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zianjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
